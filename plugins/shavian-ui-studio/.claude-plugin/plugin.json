@@ -1,0 +1,10 @@
+{
+  "name": "shavian-ui-studio",
+  "version": "1.1.0",
+  "description": "A safe, reference-driven UI workflow for Claude Code with optional Figma and Mobbin integrations.",
+  "author": {
+    "name": "Shavian Music (@shavianofficial)"
+  },
+  "license": "MIT",
+  "keywords": ["ui", "ux", "figma", "mobbin", "design-system", "product-design", "visual-regression", "moodboard", "brainstorm", "taste-profile"]
+}

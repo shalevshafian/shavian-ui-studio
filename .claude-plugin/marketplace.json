@@ -1,0 +1,22 @@
+{
+  "name": "shavian-tools",
+  "owner": {
+    "name": "Shavian Music (@shavianofficial)"
+  },
+  "metadata": {
+    "description": "Shareable Claude Code workflows created by Shavian Music."
+  },
+  "plugins": [
+    {
+      "name": "shavian-ui-studio",
+      "source": "./plugins/shavian-ui-studio",
+      "description": "A safe, reference-driven UI workflow for Claude Code with optional Figma and Mobbin integrations.",
+      "version": "1.1.0",
+      "author": {
+        "name": "Shavian Music (@shavianofficial)"
+      },
+      "category": "design",
+      "tags": ["ui", "ux", "figma", "mobbin", "design-system", "product-design"]
+    }
+  ]
+}

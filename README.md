@@ -19,6 +19,23 @@ The fastest way in is `/shavian-ui-studio:vision <your idea>` — it takes an id
 
 The plugin is designed for safe sharing. It ships with **no automatic hooks**, **no bundled MCP servers**, **no telemetry**, and **no secret collection**. External integrations are opt-in.
 
+## Install
+
+In Claude Code, run:
+
+```text
+/plugin marketplace add shalevshafian/shavian-ui-studio
+/plugin install shavian-ui-studio@shavian-tools
+```
+
+Then start (or restart) a session and either describe what you want to build, or run:
+
+```text
+/shavian-ui-studio:vision <your idea>
+```
+
+Run `/shavian-ui-studio:doctor` anytime to check what's connected.
+
 ## Quick local test
 
 ```bash
